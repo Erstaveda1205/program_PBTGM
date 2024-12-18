@@ -1,0 +1,14 @@
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\KalkulatorLagi\obj\Debug\net8.0\KalkulatorBegete.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\KalkulatorLagi\obj\Debug\net8.0\KalkulatorBegete.AssemblyInfoInputs.cache
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\KalkulatorLagi\obj\Debug\net8.0\KalkulatorBegete.AssemblyInfo.cs
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\KalkulatorLagi\obj\Debug\net8.0\KalkulatorBegete.csproj.CoreCompileInputs.cache
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\Kalkulatorlagi\bin\Debug\net8.0\KalkulatorBegete.exe
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\Kalkulatorlagi\bin\Debug\net8.0\KalkulatorBegete.deps.json
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\Kalkulatorlagi\bin\Debug\net8.0\KalkulatorBegete.runtimeconfig.json
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\Kalkulatorlagi\bin\Debug\net8.0\KalkulatorBegete.dll
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\Kalkulatorlagi\bin\Debug\net8.0\KalkulatorBegete.pdb
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\Kalkulatorlagi\obj\Debug\net8.0\KalkulatorBegete.dll
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\Kalkulatorlagi\obj\Debug\net8.0\refint\KalkulatorBegete.dll
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\Kalkulatorlagi\obj\Debug\net8.0\KalkulatorBegete.pdb
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\Kalkulatorlagi\obj\Debug\net8.0\KalkulatorBegete.genruntimeconfig.cache
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\Kalkulatorlagi\obj\Debug\net8.0\ref\KalkulatorBegete.dll

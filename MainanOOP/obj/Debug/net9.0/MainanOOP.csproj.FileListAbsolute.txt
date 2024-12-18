@@ -1,0 +1,14 @@
+D:\Kelas 11\PBTGM\Program_C#\MainanOOP\bin\Debug\net9.0\MainanOOP.exe
+D:\Kelas 11\PBTGM\Program_C#\MainanOOP\bin\Debug\net9.0\MainanOOP.deps.json
+D:\Kelas 11\PBTGM\Program_C#\MainanOOP\bin\Debug\net9.0\MainanOOP.runtimeconfig.json
+D:\Kelas 11\PBTGM\Program_C#\MainanOOP\bin\Debug\net9.0\MainanOOP.dll
+D:\Kelas 11\PBTGM\Program_C#\MainanOOP\bin\Debug\net9.0\MainanOOP.pdb
+D:\Kelas 11\PBTGM\Program_C#\MainanOOP\obj\Debug\net9.0\MainanOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kelas 11\PBTGM\Program_C#\MainanOOP\obj\Debug\net9.0\MainanOOP.AssemblyInfoInputs.cache
+D:\Kelas 11\PBTGM\Program_C#\MainanOOP\obj\Debug\net9.0\MainanOOP.AssemblyInfo.cs
+D:\Kelas 11\PBTGM\Program_C#\MainanOOP\obj\Debug\net9.0\MainanOOP.csproj.CoreCompileInputs.cache
+D:\Kelas 11\PBTGM\Program_C#\MainanOOP\obj\Debug\net9.0\MainanOOP.dll
+D:\Kelas 11\PBTGM\Program_C#\MainanOOP\obj\Debug\net9.0\refint\MainanOOP.dll
+D:\Kelas 11\PBTGM\Program_C#\MainanOOP\obj\Debug\net9.0\MainanOOP.pdb
+D:\Kelas 11\PBTGM\Program_C#\MainanOOP\obj\Debug\net9.0\MainanOOP.genruntimeconfig.cache
+D:\Kelas 11\PBTGM\Program_C#\MainanOOP\obj\Debug\net9.0\ref\MainanOOP.dll

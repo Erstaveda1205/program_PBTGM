@@ -1,0 +1,14 @@
+D:\PBTGM\lingkaran\bin\Debug\net8.0\lingkaran.exe
+D:\PBTGM\lingkaran\bin\Debug\net8.0\lingkaran.deps.json
+D:\PBTGM\lingkaran\bin\Debug\net8.0\lingkaran.runtimeconfig.json
+D:\PBTGM\lingkaran\bin\Debug\net8.0\lingkaran.dll
+D:\PBTGM\lingkaran\bin\Debug\net8.0\lingkaran.pdb
+D:\PBTGM\lingkaran\obj\Debug\net8.0\lingkaran.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBTGM\lingkaran\obj\Debug\net8.0\lingkaran.AssemblyInfoInputs.cache
+D:\PBTGM\lingkaran\obj\Debug\net8.0\lingkaran.AssemblyInfo.cs
+D:\PBTGM\lingkaran\obj\Debug\net8.0\lingkaran.csproj.CoreCompileInputs.cache
+D:\PBTGM\lingkaran\obj\Debug\net8.0\lingkaran.dll
+D:\PBTGM\lingkaran\obj\Debug\net8.0\refint\lingkaran.dll
+D:\PBTGM\lingkaran\obj\Debug\net8.0\lingkaran.pdb
+D:\PBTGM\lingkaran\obj\Debug\net8.0\lingkaran.genruntimeconfig.cache
+D:\PBTGM\lingkaran\obj\Debug\net8.0\ref\lingkaran.dll

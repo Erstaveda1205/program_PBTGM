@@ -1,0 +1,14 @@
+D:\Kelas 11\PBTGM\Program_C#\SuhuAja\Suhu\bin\Debug\net8.0\Suhu.exe
+D:\Kelas 11\PBTGM\Program_C#\SuhuAja\Suhu\bin\Debug\net8.0\Suhu.deps.json
+D:\Kelas 11\PBTGM\Program_C#\SuhuAja\Suhu\bin\Debug\net8.0\Suhu.runtimeconfig.json
+D:\Kelas 11\PBTGM\Program_C#\SuhuAja\Suhu\bin\Debug\net8.0\Suhu.dll
+D:\Kelas 11\PBTGM\Program_C#\SuhuAja\Suhu\bin\Debug\net8.0\Suhu.pdb
+D:\Kelas 11\PBTGM\Program_C#\SuhuAja\Suhu\obj\Debug\net8.0\Suhu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kelas 11\PBTGM\Program_C#\SuhuAja\Suhu\obj\Debug\net8.0\Suhu.AssemblyInfoInputs.cache
+D:\Kelas 11\PBTGM\Program_C#\SuhuAja\Suhu\obj\Debug\net8.0\Suhu.AssemblyInfo.cs
+D:\Kelas 11\PBTGM\Program_C#\SuhuAja\Suhu\obj\Debug\net8.0\Suhu.csproj.CoreCompileInputs.cache
+D:\Kelas 11\PBTGM\Program_C#\SuhuAja\Suhu\obj\Debug\net8.0\Suhu.dll
+D:\Kelas 11\PBTGM\Program_C#\SuhuAja\Suhu\obj\Debug\net8.0\refint\Suhu.dll
+D:\Kelas 11\PBTGM\Program_C#\SuhuAja\Suhu\obj\Debug\net8.0\Suhu.pdb
+D:\Kelas 11\PBTGM\Program_C#\SuhuAja\Suhu\obj\Debug\net8.0\Suhu.genruntimeconfig.cache
+D:\Kelas 11\PBTGM\Program_C#\SuhuAja\Suhu\obj\Debug\net8.0\ref\Suhu.dll

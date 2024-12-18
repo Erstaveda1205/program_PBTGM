@@ -1,0 +1,14 @@
+D:\PBTGM\VolumeKubus\bin\Debug\net8.0\VolumeKubus.exe
+D:\PBTGM\VolumeKubus\bin\Debug\net8.0\VolumeKubus.deps.json
+D:\PBTGM\VolumeKubus\bin\Debug\net8.0\VolumeKubus.runtimeconfig.json
+D:\PBTGM\VolumeKubus\bin\Debug\net8.0\VolumeKubus.dll
+D:\PBTGM\VolumeKubus\bin\Debug\net8.0\VolumeKubus.pdb
+D:\PBTGM\VolumeKubus\obj\Debug\net8.0\VolumeKubus.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBTGM\VolumeKubus\obj\Debug\net8.0\VolumeKubus.AssemblyInfoInputs.cache
+D:\PBTGM\VolumeKubus\obj\Debug\net8.0\VolumeKubus.AssemblyInfo.cs
+D:\PBTGM\VolumeKubus\obj\Debug\net8.0\VolumeKubus.csproj.CoreCompileInputs.cache
+D:\PBTGM\VolumeKubus\obj\Debug\net8.0\VolumeKubus.dll
+D:\PBTGM\VolumeKubus\obj\Debug\net8.0\refint\VolumeKubus.dll
+D:\PBTGM\VolumeKubus\obj\Debug\net8.0\VolumeKubus.pdb
+D:\PBTGM\VolumeKubus\obj\Debug\net8.0\VolumeKubus.genruntimeconfig.cache
+D:\PBTGM\VolumeKubus\obj\Debug\net8.0\ref\VolumeKubus.dll

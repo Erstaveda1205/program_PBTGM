@@ -1,0 +1,14 @@
+D:\PBTGM\temanSekelas\bin\Debug\net8.0\temanSekelas.exe
+D:\PBTGM\temanSekelas\bin\Debug\net8.0\temanSekelas.deps.json
+D:\PBTGM\temanSekelas\bin\Debug\net8.0\temanSekelas.runtimeconfig.json
+D:\PBTGM\temanSekelas\bin\Debug\net8.0\temanSekelas.dll
+D:\PBTGM\temanSekelas\bin\Debug\net8.0\temanSekelas.pdb
+D:\PBTGM\temanSekelas\obj\Debug\net8.0\temanSekelas.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBTGM\temanSekelas\obj\Debug\net8.0\temanSekelas.AssemblyInfoInputs.cache
+D:\PBTGM\temanSekelas\obj\Debug\net8.0\temanSekelas.AssemblyInfo.cs
+D:\PBTGM\temanSekelas\obj\Debug\net8.0\temanSekelas.csproj.CoreCompileInputs.cache
+D:\PBTGM\temanSekelas\obj\Debug\net8.0\temanSekelas.dll
+D:\PBTGM\temanSekelas\obj\Debug\net8.0\refint\temanSekelas.dll
+D:\PBTGM\temanSekelas\obj\Debug\net8.0\temanSekelas.pdb
+D:\PBTGM\temanSekelas\obj\Debug\net8.0\temanSekelas.genruntimeconfig.cache
+D:\PBTGM\temanSekelas\obj\Debug\net8.0\ref\temanSekelas.dll

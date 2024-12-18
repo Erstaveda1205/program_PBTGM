@@ -1,0 +1,14 @@
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\kalkulator\bin\Debug\net8.0\Kalkulator.exe
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\kalkulator\bin\Debug\net8.0\Kalkulator.deps.json
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\kalkulator\bin\Debug\net8.0\Kalkulator.runtimeconfig.json
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\kalkulator\bin\Debug\net8.0\Kalkulator.dll
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\kalkulator\bin\Debug\net8.0\Kalkulator.pdb
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\kalkulator\obj\Debug\net8.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\kalkulator\obj\Debug\net8.0\Kalkulator.AssemblyInfoInputs.cache
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\kalkulator\obj\Debug\net8.0\Kalkulator.AssemblyInfo.cs
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\kalkulator\obj\Debug\net8.0\Kalkulator.csproj.CoreCompileInputs.cache
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\kalkulator\obj\Debug\net8.0\Kalkulator.dll
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\kalkulator\obj\Debug\net8.0\refint\Kalkulator.dll
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\kalkulator\obj\Debug\net8.0\Kalkulator.pdb
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\kalkulator\obj\Debug\net8.0\Kalkulator.genruntimeconfig.cache
+D:\Kelas 11\PBTGM\Program_C#\KalkulatorBegete\kalkulator\obj\Debug\net8.0\ref\Kalkulator.dll

@@ -1,0 +1,14 @@
+D:\PBTGM\antreanBank\bin\Debug\net8.0\antreanBank.exe
+D:\PBTGM\antreanBank\bin\Debug\net8.0\antreanBank.deps.json
+D:\PBTGM\antreanBank\bin\Debug\net8.0\antreanBank.runtimeconfig.json
+D:\PBTGM\antreanBank\bin\Debug\net8.0\antreanBank.dll
+D:\PBTGM\antreanBank\bin\Debug\net8.0\antreanBank.pdb
+D:\PBTGM\antreanBank\obj\Debug\net8.0\antreanBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBTGM\antreanBank\obj\Debug\net8.0\antreanBank.AssemblyInfoInputs.cache
+D:\PBTGM\antreanBank\obj\Debug\net8.0\antreanBank.AssemblyInfo.cs
+D:\PBTGM\antreanBank\obj\Debug\net8.0\antreanBank.csproj.CoreCompileInputs.cache
+D:\PBTGM\antreanBank\obj\Debug\net8.0\antreanBank.dll
+D:\PBTGM\antreanBank\obj\Debug\net8.0\refint\antreanBank.dll
+D:\PBTGM\antreanBank\obj\Debug\net8.0\antreanBank.pdb
+D:\PBTGM\antreanBank\obj\Debug\net8.0\antreanBank.genruntimeconfig.cache
+D:\PBTGM\antreanBank\obj\Debug\net8.0\ref\antreanBank.dll

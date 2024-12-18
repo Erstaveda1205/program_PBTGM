@@ -1,0 +1,14 @@
+D:\PBTGM\ibuKota\bin\Debug\net8.0\ibuKota.exe
+D:\PBTGM\ibuKota\bin\Debug\net8.0\ibuKota.deps.json
+D:\PBTGM\ibuKota\bin\Debug\net8.0\ibuKota.runtimeconfig.json
+D:\PBTGM\ibuKota\bin\Debug\net8.0\ibuKota.dll
+D:\PBTGM\ibuKota\bin\Debug\net8.0\ibuKota.pdb
+D:\PBTGM\ibuKota\obj\Debug\net8.0\ibuKota.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBTGM\ibuKota\obj\Debug\net8.0\ibuKota.AssemblyInfoInputs.cache
+D:\PBTGM\ibuKota\obj\Debug\net8.0\ibuKota.AssemblyInfo.cs
+D:\PBTGM\ibuKota\obj\Debug\net8.0\ibuKota.csproj.CoreCompileInputs.cache
+D:\PBTGM\ibuKota\obj\Debug\net8.0\ibuKota.dll
+D:\PBTGM\ibuKota\obj\Debug\net8.0\refint\ibuKota.dll
+D:\PBTGM\ibuKota\obj\Debug\net8.0\ibuKota.pdb
+D:\PBTGM\ibuKota\obj\Debug\net8.0\ibuKota.genruntimeconfig.cache
+D:\PBTGM\ibuKota\obj\Debug\net8.0\ref\ibuKota.dll

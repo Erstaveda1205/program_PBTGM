@@ -1,0 +1,14 @@
+D:\Kelas 11\PBTGM\Program_C#\cobaOOP\bin\Debug\net9.0\cobaOOP.exe
+D:\Kelas 11\PBTGM\Program_C#\cobaOOP\bin\Debug\net9.0\cobaOOP.deps.json
+D:\Kelas 11\PBTGM\Program_C#\cobaOOP\bin\Debug\net9.0\cobaOOP.runtimeconfig.json
+D:\Kelas 11\PBTGM\Program_C#\cobaOOP\bin\Debug\net9.0\cobaOOP.dll
+D:\Kelas 11\PBTGM\Program_C#\cobaOOP\bin\Debug\net9.0\cobaOOP.pdb
+D:\Kelas 11\PBTGM\Program_C#\cobaOOP\obj\Debug\net9.0\cobaOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kelas 11\PBTGM\Program_C#\cobaOOP\obj\Debug\net9.0\cobaOOP.AssemblyInfoInputs.cache
+D:\Kelas 11\PBTGM\Program_C#\cobaOOP\obj\Debug\net9.0\cobaOOP.AssemblyInfo.cs
+D:\Kelas 11\PBTGM\Program_C#\cobaOOP\obj\Debug\net9.0\cobaOOP.csproj.CoreCompileInputs.cache
+D:\Kelas 11\PBTGM\Program_C#\cobaOOP\obj\Debug\net9.0\cobaOOP.dll
+D:\Kelas 11\PBTGM\Program_C#\cobaOOP\obj\Debug\net9.0\refint\cobaOOP.dll
+D:\Kelas 11\PBTGM\Program_C#\cobaOOP\obj\Debug\net9.0\cobaOOP.pdb
+D:\Kelas 11\PBTGM\Program_C#\cobaOOP\obj\Debug\net9.0\cobaOOP.genruntimeconfig.cache
+D:\Kelas 11\PBTGM\Program_C#\cobaOOP\obj\Debug\net9.0\ref\cobaOOP.dll

@@ -1,0 +1,14 @@
+D:\PBTGM\hariSeminggu\bin\Debug\net8.0\hariSeminggu.exe
+D:\PBTGM\hariSeminggu\bin\Debug\net8.0\hariSeminggu.deps.json
+D:\PBTGM\hariSeminggu\bin\Debug\net8.0\hariSeminggu.runtimeconfig.json
+D:\PBTGM\hariSeminggu\bin\Debug\net8.0\hariSeminggu.dll
+D:\PBTGM\hariSeminggu\bin\Debug\net8.0\hariSeminggu.pdb
+D:\PBTGM\hariSeminggu\obj\Debug\net8.0\hariSeminggu.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBTGM\hariSeminggu\obj\Debug\net8.0\hariSeminggu.AssemblyInfoInputs.cache
+D:\PBTGM\hariSeminggu\obj\Debug\net8.0\hariSeminggu.AssemblyInfo.cs
+D:\PBTGM\hariSeminggu\obj\Debug\net8.0\hariSeminggu.csproj.CoreCompileInputs.cache
+D:\PBTGM\hariSeminggu\obj\Debug\net8.0\hariSeminggu.dll
+D:\PBTGM\hariSeminggu\obj\Debug\net8.0\refint\hariSeminggu.dll
+D:\PBTGM\hariSeminggu\obj\Debug\net8.0\hariSeminggu.pdb
+D:\PBTGM\hariSeminggu\obj\Debug\net8.0\hariSeminggu.genruntimeconfig.cache
+D:\PBTGM\hariSeminggu\obj\Debug\net8.0\ref\hariSeminggu.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Perulangan1/1.0.0": {
+        "runtime": {
+          "Perulangan1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Perulangan1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Kelas 11\PBTGM\Program_C#\Perulangan1\obj\Debug\net9.0\Perulangan1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kelas 11\PBTGM\Program_C#\Perulangan1\obj\Debug\net9.0\Perulangan1.AssemblyInfoInputs.cache
+D:\Kelas 11\PBTGM\Program_C#\Perulangan1\obj\Debug\net9.0\Perulangan1.AssemblyInfo.cs
+D:\Kelas 11\PBTGM\Program_C#\Perulangan1\obj\Debug\net9.0\Perulangan1.csproj.CoreCompileInputs.cache
+D:\Kelas 11\PBTGM\Program_C#\Perulangan1\bin\Debug\net9.0\Perulangan1.exe
+D:\Kelas 11\PBTGM\Program_C#\Perulangan1\bin\Debug\net9.0\Perulangan1.deps.json
+D:\Kelas 11\PBTGM\Program_C#\Perulangan1\bin\Debug\net9.0\Perulangan1.runtimeconfig.json
+D:\Kelas 11\PBTGM\Program_C#\Perulangan1\bin\Debug\net9.0\Perulangan1.dll
+D:\Kelas 11\PBTGM\Program_C#\Perulangan1\bin\Debug\net9.0\Perulangan1.pdb
+D:\Kelas 11\PBTGM\Program_C#\Perulangan1\obj\Debug\net9.0\Perulangan1.dll
+D:\Kelas 11\PBTGM\Program_C#\Perulangan1\obj\Debug\net9.0\refint\Perulangan1.dll
+D:\Kelas 11\PBTGM\Program_C#\Perulangan1\obj\Debug\net9.0\Perulangan1.pdb
+D:\Kelas 11\PBTGM\Program_C#\Perulangan1\obj\Debug\net9.0\Perulangan1.genruntimeconfig.cache
+D:\Kelas 11\PBTGM\Program_C#\Perulangan1\obj\Debug\net9.0\ref\Perulangan1.dll

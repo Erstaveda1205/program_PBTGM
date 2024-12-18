@@ -1,0 +1,14 @@
+D:\PBTGM\antrean\bin\Debug\net8.0\antrean.exe
+D:\PBTGM\antrean\bin\Debug\net8.0\antrean.deps.json
+D:\PBTGM\antrean\bin\Debug\net8.0\antrean.runtimeconfig.json
+D:\PBTGM\antrean\bin\Debug\net8.0\antrean.dll
+D:\PBTGM\antrean\bin\Debug\net8.0\antrean.pdb
+D:\PBTGM\antrean\obj\Debug\net8.0\antrean.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBTGM\antrean\obj\Debug\net8.0\antrean.AssemblyInfoInputs.cache
+D:\PBTGM\antrean\obj\Debug\net8.0\antrean.AssemblyInfo.cs
+D:\PBTGM\antrean\obj\Debug\net8.0\antrean.csproj.CoreCompileInputs.cache
+D:\PBTGM\antrean\obj\Debug\net8.0\antrean.dll
+D:\PBTGM\antrean\obj\Debug\net8.0\refint\antrean.dll
+D:\PBTGM\antrean\obj\Debug\net8.0\antrean.pdb
+D:\PBTGM\antrean\obj\Debug\net8.0\antrean.genruntimeconfig.cache
+D:\PBTGM\antrean\obj\Debug\net8.0\ref\antrean.dll

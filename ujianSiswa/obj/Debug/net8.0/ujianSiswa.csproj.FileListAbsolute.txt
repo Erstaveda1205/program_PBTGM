@@ -1,0 +1,28 @@
+D:\PBTGM\ujianSiswa\bin\Debug\net8.0\ujianSiswa.exe
+D:\PBTGM\ujianSiswa\bin\Debug\net8.0\ujianSiswa.deps.json
+D:\PBTGM\ujianSiswa\bin\Debug\net8.0\ujianSiswa.runtimeconfig.json
+D:\PBTGM\ujianSiswa\bin\Debug\net8.0\ujianSiswa.dll
+D:\PBTGM\ujianSiswa\bin\Debug\net8.0\ujianSiswa.pdb
+D:\PBTGM\ujianSiswa\obj\Debug\net8.0\ujianSiswa.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBTGM\ujianSiswa\obj\Debug\net8.0\ujianSiswa.AssemblyInfoInputs.cache
+D:\PBTGM\ujianSiswa\obj\Debug\net8.0\ujianSiswa.AssemblyInfo.cs
+D:\PBTGM\ujianSiswa\obj\Debug\net8.0\ujianSiswa.csproj.CoreCompileInputs.cache
+D:\PBTGM\ujianSiswa\obj\Debug\net8.0\ujianSiswa.dll
+D:\PBTGM\ujianSiswa\obj\Debug\net8.0\refint\ujianSiswa.dll
+D:\PBTGM\ujianSiswa\obj\Debug\net8.0\ujianSiswa.pdb
+D:\PBTGM\ujianSiswa\obj\Debug\net8.0\ujianSiswa.genruntimeconfig.cache
+D:\PBTGM\ujianSiswa\obj\Debug\net8.0\ref\ujianSiswa.dll
+D:\Kelas 11\PBTGM\Program_C#\ujianSiswa\bin\Debug\net8.0\ujianSiswa.exe
+D:\Kelas 11\PBTGM\Program_C#\ujianSiswa\bin\Debug\net8.0\ujianSiswa.deps.json
+D:\Kelas 11\PBTGM\Program_C#\ujianSiswa\bin\Debug\net8.0\ujianSiswa.runtimeconfig.json
+D:\Kelas 11\PBTGM\Program_C#\ujianSiswa\bin\Debug\net8.0\ujianSiswa.dll
+D:\Kelas 11\PBTGM\Program_C#\ujianSiswa\bin\Debug\net8.0\ujianSiswa.pdb
+D:\Kelas 11\PBTGM\Program_C#\ujianSiswa\obj\Debug\net8.0\ujianSiswa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kelas 11\PBTGM\Program_C#\ujianSiswa\obj\Debug\net8.0\ujianSiswa.AssemblyInfoInputs.cache
+D:\Kelas 11\PBTGM\Program_C#\ujianSiswa\obj\Debug\net8.0\ujianSiswa.AssemblyInfo.cs
+D:\Kelas 11\PBTGM\Program_C#\ujianSiswa\obj\Debug\net8.0\ujianSiswa.csproj.CoreCompileInputs.cache
+D:\Kelas 11\PBTGM\Program_C#\ujianSiswa\obj\Debug\net8.0\ujianSiswa.dll
+D:\Kelas 11\PBTGM\Program_C#\ujianSiswa\obj\Debug\net8.0\refint\ujianSiswa.dll
+D:\Kelas 11\PBTGM\Program_C#\ujianSiswa\obj\Debug\net8.0\ujianSiswa.pdb
+D:\Kelas 11\PBTGM\Program_C#\ujianSiswa\obj\Debug\net8.0\ujianSiswa.genruntimeconfig.cache
+D:\Kelas 11\PBTGM\Program_C#\ujianSiswa\obj\Debug\net8.0\ref\ujianSiswa.dll
